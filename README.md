@@ -17,7 +17,7 @@
         <footer>
 
                <p style="color:White;"> Feito por: Lais</p>
-               <p style="color:red;"> E-mail: <a style="color:black;" href="malito:l.com">  </a> </p>
+               <p style="color:red;"> E-mail:vieiralais513@gmail.com <a style="color:black;" href="malito:l.com">vieiralais513@gmail.com </a> </p>
 <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
 <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
 <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
